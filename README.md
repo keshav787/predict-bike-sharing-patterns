@@ -4,3 +4,10 @@ In this project, I have built a neural network from scratch to carry out a predi
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
+## Setup
+ 1. Clone this repo:
+```
+git clone https://github.com/keshav787/predict-bike-sharing-patterns.git
+```
+ 2. Install all the dependencies  
+ 3. Follow Instructions in [Your_first_neural_network.ipynb](https://github.com/keshav787/predict-bike-sharing-patterns/blob/master/Your_first_neural_network.ipynb)
