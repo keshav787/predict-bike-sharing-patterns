@@ -59,6 +59,8 @@ class NeuralNetwork(object):
             Arguments
             ---------
             X: features batch
+            X: features batch
+            X: features batch
 
         '''
         #### Implement the forward pass here ####
